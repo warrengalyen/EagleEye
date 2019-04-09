@@ -1,0 +1,17 @@
+# enter the urls you need to monitor for uptime
+uptime:
+  google: https://www.google.com
+  yahoo: http://www.yahoo.com
+
+# Enter websites you need to monitor ssl (http/https not needed)
+ssl:
+  google: www.google.com
+  yahoo: www.yahoo.com
+  amazon: www.amazon.com
+
+# Alert Values for SSL validation (job_time must be in hour:minute format)
+ssl_validate:
+  normal: 300
+  warning: 30
+  job_time: '15:45'
+  

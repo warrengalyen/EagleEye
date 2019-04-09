@@ -8,7 +8,7 @@
 1. git clone https://github.com/warrengalyen/eagleeye.git
 2. pip install -r requirements.txt
 
-# Eagle in action
+# Usage
 - Set your slack credentials in main.yaml file<br/>
 - Set your rules in yaml files inside rules directory<br/>
 - Add Eagle Eye to the running crons<br/>
